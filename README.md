@@ -24,7 +24,7 @@
 
 ## 📫Contact me
 
-- [![zhihu](https://static.is26.com/tmp/icons/zhihu.svg)](zhihu.com/people/sakurs2 )[Zhihu: sakurs2](zhihu.com/people/sakurs2)
+- [![zhihu](https://static.is26.com/tmp/icons/zhihu.svg)](https://zhihu.com/people/sakurs2 )[Zhihu: sakurs2](https://zhihu.com/people/sakurs2)
 
 <!--
 **sakurs2/sakurs2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
