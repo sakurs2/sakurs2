@@ -1,8 +1,8 @@
 ## Hi there 👋, I'm sakurs2 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-![sakurs2's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakurs2&theme=merko&show_icons=true)
+![sakurs2's GitHub stats](https://github-readme-stats-5c8a.vercel.app/api?username=sakurs2&theme=merko&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakurs2)
+![Top Langs](https://github-readme-stats-5c8a.vercel.app/api/top-langs/?username=sakurs2)
 
 ![sakurs2's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sakurs2&theme=react-dark)
 
